@@ -1,0 +1,8 @@
+Organizational Evaluation System
+Build: 2026.11.02-requirements-update-v1
+Framework: Python / Flask
+Database: SQLite
+Key additions: evaluator question rubric settings, server-side exact allocation validation,
+audit events, dashboard summaries/charts, renameable units, detailed Excel sheets,
+transparent watermark, optional score comments.
+See IMPLEMENTATION_NOTES_FA.md and TEST_REPORT_FA.md.

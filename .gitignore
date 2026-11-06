@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+instance/evaluation.db
+instance/evaluation.db-shm
+instance/evaluation.db-wal
+instance/.secret_key
+backups/
+.env
